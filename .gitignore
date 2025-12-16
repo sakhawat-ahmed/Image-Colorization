@@ -26,4 +26,4 @@ results/
 checkpoints/
 venv/
 
-src/__pycache__/image-colorization.ipynb
+image-colorization.ipynb
